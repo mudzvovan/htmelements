@@ -7,10 +7,8 @@
     </head>
 
     <body>
-        
-        <div class="inputBoxes">
-            <?php require_once 'inputBoxes/inputBoxes.html'; ?>
-        </div>
 
+         <?php require_once 'inputBoxes/inputBoxes.html'; ?>
+         
     </body>
 </html>
