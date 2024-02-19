@@ -6,6 +6,8 @@
 }
 
 body{
+    padding-left: 20px;
+    padding-top: 20px;
     min-height: 100vh;
     justify-content: center;
     align-items: center;
