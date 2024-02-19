@@ -8,5 +8,9 @@
 
     <body>
         
+        <div class="inputBoxes">
+            <?php require_once 'inputBoxes/inputBoxes.html'; ?>
+        </div>
+
     </body>
 </html>
